@@ -1,4 +1,4 @@
-Persona-Adaptive Customer Support Agent
+**Persona-Adaptive Customer Support Agent**
 Features
 Persona Detection
 RAG using FAISS
